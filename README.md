@@ -1,3 +1,3 @@
 # Store Locator
 
-https://mjdanielson.github.io/StoreLocator/
+https://mjdanielson.github.io/Store-Locator/
